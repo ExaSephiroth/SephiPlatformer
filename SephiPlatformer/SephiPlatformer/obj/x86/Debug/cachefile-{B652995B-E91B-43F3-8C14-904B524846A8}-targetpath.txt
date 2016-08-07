@@ -1,0 +1,13 @@
+Content\Sephiroth.xnb
+Content\tile.xnb
+Content\jumper.xnb
+Content\aeris.xnb
+Content\swag.xnb
+Content\debugFont.xnb
+Content\scoreFont.xnb
+Content\vid1.xnb
+Content\vid1.wmv
+Content\axlswag.xnb
+Content\background.xnb
+Content\exit.xnb
+Content\start.xnb

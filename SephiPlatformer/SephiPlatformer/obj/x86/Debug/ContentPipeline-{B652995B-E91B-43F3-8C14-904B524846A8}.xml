@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sephiroth.png</Source>
+      <Name>Sephiroth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\Sephiroth.xnb</Output>
+      <Time>2014-12-02T19:11:32.4928843+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tile.png</Source>
+      <Name>tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\tile.xnb</Output>
+      <Time>2014-12-02T19:11:32.4928843+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jumper.png</Source>
+      <Name>jumper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\jumper.xnb</Output>
+      <Time>2014-12-03T00:07:06.1055358+01:00</Time>
+    </Item>
+    <Item>
+      <Source>aeris.png</Source>
+      <Name>aeris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\aeris.xnb</Output>
+      <Time>2014-12-10T21:03:07.9578265+01:00</Time>
+    </Item>
+    <Item>
+      <Source>swag.jpg</Source>
+      <Name>swag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\swag.xnb</Output>
+      <Time>2015-01-17T21:48:36.3828189+01:00</Time>
+    </Item>
+    <Item>
+      <Source>debugFont.spritefont</Source>
+      <Name>debugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\debugFont.xnb</Output>
+      <Time>2014-12-05T22:08:35.7990157+01:00</Time>
+    </Item>
+    <Item>
+      <Source>scoreFont.spritefont</Source>
+      <Name>scoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\scoreFont.xnb</Output>
+      <Time>2014-12-10T22:44:47.0430688+01:00</Time>
+    </Item>
+    <Item>
+      <Source>vid1.wmv</Source>
+      <Name>vid1</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\vid1.xnb</Output>
+      <Extra>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\vid1.wmv</Extra>
+      <Time>2014-12-10T22:47:04.2990973+01:00</Time>
+    </Item>
+    <Item>
+      <Source>axlswag.png</Source>
+      <Name>axlswag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\axlswag.xnb</Output>
+      <Time>2015-01-17T21:48:36.3798168+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2015-01-18T18:11:48.6460311+01:00</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2015-01-18T18:32:39.4161121+01:00</Time>
+    </Item>
+    <Item>
+      <Source>start.png</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\start.xnb</Output>
+      <Time>2015-01-18T18:32:39.4212354+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B652995B-E91B-43F3-8C14-904B524846A8}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\sander\Documents\Visual Studio 2013\Projects\SephiPlatformer\SephiPlatformer\SephiPlatformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-25T11:47:36.92767+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
